@@ -248,7 +248,7 @@ h5 a{
 /* CSS Page-4 */
 
 .page4{
-   width: 100px;
+   width: 100vw;
     height: 800px;
     position: absolute;
     background: rgba(79, 79, 79, 0.25);
